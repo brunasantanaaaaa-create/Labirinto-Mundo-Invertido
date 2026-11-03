@@ -44,3 +44,7 @@ O jogo foi desenvolvido como parte de um projeto escolar, utilizando HTML, CSS e
  👩‍💻 Sobre o projeto
 
 Este jogo foi desenvolvido como atividade escolar para colocar em prática os conhecimentos de programação e criação de jogos. Durante o desenvolvimento, trabalhei com elementos 3D, movimentação, itens, inimigo e ambientação de terror.
+
+ 🕹️ Link do Jogo:
+
+https://brunasantanaaaaa-create.github.io/Labirinto-Mundo-Invertido/ 
